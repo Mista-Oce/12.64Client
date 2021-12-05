@@ -1,0 +1,994 @@
+[ 2021-12-03 21:47:35,568 ] Asset loading complete
+[ 2021-12-03 21:48:03,534 ] Didn't send news query with params ( 0 4 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 21:48:05,306 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 21:48:05,311 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Forgotten"
+[ 2021-12-03 21:48:05,323 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Forgotten"
+[ 2021-12-03 21:48:05,373 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Forgotten"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 21:48:05,379 ] Disconnected from gameserver
+[ 2021-12-03 21:48:06,426 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 21:49:55,719 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 21:49:57,082 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 21:49:57,083 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Forgotten"
+[ 2021-12-03 21:49:57,095 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Forgotten"
+[ 2021-12-03 21:49:57,123 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Forgotten"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 21:49:57,128 ] Disconnected from gameserver
+[ 2021-12-03 21:49:58,101 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 21:49:58,536 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 21:50:07,264 ] Asset loading complete
+[ 2021-12-03 21:50:13,859 ] Asset loading complete
+[ 2021-12-03 21:50:37,866 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 21:50:40,303 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 21:50:40,308 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-12-03 21:50:40,319 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-12-03 21:50:41,319 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-12-03 22:15:20,766 ] Asset loading complete
+[ 2021-12-03 22:15:26,268 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:15:27,605 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 22:15:27,609 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 22:15:27,614 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 22:15:27,633 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 22:15:27,638 ] Disconnected from gameserver
+[ 2021-12-03 22:15:28,651 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:17:40,524 ] Asset loading complete
+[ 2021-12-03 22:17:45,699 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:17:46,611 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 22:17:46,615 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 22:17:46,619 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 22:17:47,650 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:17:51,735 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 22:17:51,774 ] Disconnected from gameserver
+[ 2021-12-03 22:17:51,906 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:23:26,796 ] Asset loading complete
+[ 2021-12-03 22:23:31,144 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:23:34,618 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 22:23:34,622 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 22:23:34,626 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 22:23:35,671 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 22:24:01,274 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 22:24:01,314 ] Disconnected from gameserver
+[ 2021-12-03 22:24:01,446 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36/login.php") ) due to too many retries.
+[ 2021-12-03 23:06:24,019 ] Asset loading complete
+[ 2021-12-03 23:06:38,165 ] Asset loading complete
+[ 2021-12-03 23:09:08,598 ] Asset loading complete
+[ 2021-12-03 23:09:22,666 ] Asset loading complete
+[ 2021-12-03 23:10:17,204 ] Asset loading complete
+[ 2021-12-03 23:10:29,185 ] Asset loading complete
+[ 2021-12-03 23:11:37,005 ] Asset loading complete
+[ 2021-12-03 23:11:39,429 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:40,658 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:11:40,662 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:40,686 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:41,689 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:41,724 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:41,739 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:41,744 ] Disconnected from gameserver
+[ 2021-12-03 23:11:42,886 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:11:42,887 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:42,937 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:43,935 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:43,942 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:43,991 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:43,995 ] Disconnected from gameserver
+[ 2021-12-03 23:11:45,135 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:11:45,137 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:45,186 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:46,120 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:46,191 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:46,240 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:46,243 ] Disconnected from gameserver
+[ 2021-12-03 23:11:47,381 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:11:47,385 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:47,439 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:48,367 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:48,444 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:48,493 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:48,496 ] Disconnected from gameserver
+[ 2021-12-03 23:11:50,726 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:11:50,736 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:50,791 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:51,713 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:51,839 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:51,888 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:51,892 ] Disconnected from gameserver
+[ 2021-12-03 23:11:56,309 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:11:56,310 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:56,336 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:57,289 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:11:57,338 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:11:57,394 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:11:57,398 ] Disconnected from gameserver
+[ 2021-12-03 23:12:02,912 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:12:02,912 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:02,936 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:03,898 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:12:03,940 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:03,990 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:03,994 ] Disconnected from gameserver
+[ 2021-12-03 23:12:09,507 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:12:09,509 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:09,536 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:10,494 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:12:10,542 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:10,592 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:10,596 ] Disconnected from gameserver
+[ 2021-12-03 23:12:16,102 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:12:16,103 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:16,139 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:17,089 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:12:17,187 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:17,243 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:17,247 ] Disconnected from gameserver
+[ 2021-12-03 23:12:22,754 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:12:22,755 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:22,786 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:23,740 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:12:23,790 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:12:23,839 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:12:23,844 ] Disconnected from gameserver
+[ 2021-12-03 23:13:34,051 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:13:35,168 ] Request connection to gameserver  "tcp://106.69.247.36:801:7172"  (unprotected:  "tcp://106.69.247.36:801:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:13:35,186 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:13:35,240 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:13:36,146 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:13:36,245 ] Request connection to gameserver  "" "OTServBR-Global"
+[ 2021-12-03 23:13:36,294 ] Connection to gameserver  "" "OTServBR-Global"  was disconnected ( "Host not found" )
+[ 2021-12-03 23:13:36,298 ] Disconnected from gameserver
+[ 2021-12-03 23:13:39,226 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:13:40,891 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GOD" )
+[ 2021-12-03 23:13:40,893 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 23:13:40,898 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-03 23:13:41,866 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-03 23:18:29,811 ] Asset loading complete
+[ 2021-12-03 23:18:42,344 ] News query failed: "Unrecognized event news."
+[ 2021-12-03 23:18:47,075 ] Request connection to gameserver  "tcp://34.95.194.195:7176"  (unprotected:  "tcp://34.95.194.195:7176" )  requested (Charakter "Akihiko Kayaba [BR proxy]" )
+[ 2021-12-03 23:18:47,080 ] Request connection to gameserver  "tcp://34.95.194.195:7176" "Hoxera"
+[ 2021-12-03 23:18:47,431 ] Connected to gameserver  "tcp://34.95.194.195:7176" "Hoxera"
+[ 2021-12-03 23:18:48,464 ] News query failed: "Unrecognized event news."
+[ 2021-12-03 23:19:05,150 ] Connection to gameserver  "tcp://34.95.194.195:7176" "Hoxera"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 23:19:05,190 ] Disconnected from gameserver
+[ 2021-12-03 23:19:05,638 ] News query failed: "Unrecognized event news."
+[ 2021-12-03 23:19:07,663 ] Request connection to gameserver  "tcp://195.201.126.112:7172"  (unprotected:  "tcp://195.201.126.112:7172" )  requested (Charakter "Akihiko Kayaba" )
+[ 2021-12-03 23:19:07,664 ] Request connection to gameserver  "tcp://195.201.126.112:7172" "Hoxera"
+[ 2021-12-03 23:19:08,023 ] Connected to gameserver  "tcp://195.201.126.112:7172" "Hoxera"
+[ 2021-12-03 23:19:08,634 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hoxera.com/login.php") ) due to too many retries.
+[ 2021-12-03 23:20:32,999 ] Connection to gameserver  "tcp://195.201.126.112:7172" "Hoxera"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-03 23:20:33,039 ] Disconnected from gameserver
+[ 2021-12-03 23:20:33,064 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hoxera.com/login.php") ) due to too many retries.
+[ 2021-12-04 03:18:59,256 ] Asset loading complete
+[ 2021-12-04 03:19:14,896 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:19:16,504 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GOD" )
+[ 2021-12-04 03:19:16,509 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 03:19:16,514 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 03:19:17,565 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:20:31,310 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 03:20:31,348 ] Disconnected from gameserver
+[ 2021-12-04 03:20:31,486 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:21:20,582 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:21:22,208 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Test" )
+[ 2021-12-04 03:21:22,210 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 03:21:22,215 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 03:21:23,185 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:22:26,858 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 03:22:26,897 ] Disconnected from gameserver
+[ 2021-12-04 03:22:26,924 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:22:58,516 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 03:22:59,152 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Test" )
+[ 2021-12-04 03:22:59,155 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 03:22:59,160 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 03:23:00,135 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 11:52:59,387 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 11:53:00,172 ] Asset loading complete
+[ 2021-12-04 11:56:09,379 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 11:56:10,029 ] Asset loading complete
+[ 2021-12-04 11:56:20,074 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 11:56:25,313 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GOD" )
+[ 2021-12-04 11:56:25,321 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 11:56:25,328 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 11:56:26,372 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 11:57:18,432 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 11:57:18,472 ] Disconnected from gameserver
+[ 2021-12-04 11:57:18,591 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 11:57:33,760 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 11:57:45,500 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-04 11:57:45,502 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 11:57:45,509 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 11:57:46,476 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 11:59:45,832 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 11:59:45,872 ] Disconnected from gameserver
+[ 2021-12-04 11:59:45,899 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:04:37,983 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 12:04:38,849 ] Asset loading complete
+[ 2021-12-04 12:06:50,339 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 12:06:50,986 ] Asset loading complete
+[ 2021-12-04 12:07:01,788 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:07:02,334 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:07:02,341 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:07:02,355 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:07:03,411 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:07:59,193 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:07:59,232 ] Disconnected from gameserver
+[ 2021-12-04 12:07:59,356 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:08:00,217 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:08:00,218 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:08:00,225 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:08:01,196 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:08:06,841 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:08:06,878 ] Disconnected from gameserver
+[ 2021-12-04 12:08:06,901 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:08:19,573 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:08:20,083 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:08:20,086 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:08:21,039 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:08:23,101 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:08:26,114 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:08:32,645 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:08:32,646 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:08:32,650 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:08:33,616 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:09:33,689 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:09:33,732 ] Disconnected from gameserver
+[ 2021-12-04 12:09:33,761 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:09:34,976 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:09:34,978 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:09:34,982 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:09:35,948 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:10:33,694 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:10:33,735 ] Disconnected from gameserver
+[ 2021-12-04 12:10:33,763 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:11:04,349 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 12:11:04,960 ] Asset loading complete
+[ 2021-12-04 12:11:30,243 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:11:30,503 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:11:30,507 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:11:30,514 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:11:31,562 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:11:52,701 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 12:11:53,578 ] Asset loading complete
+[ 2021-12-04 12:12:00,478 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:12:01,337 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-04 12:12:01,344 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:12:01,353 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:12:02,390 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:23:41,159 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:23:41,200 ] Disconnected from gameserver
+[ 2021-12-04 12:23:41,343 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:23:42,122 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-04 12:23:42,124 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:23:42,131 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:23:43,101 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:23:43,913 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:23:43,952 ] Disconnected from gameserver
+[ 2021-12-04 12:23:43,976 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:23:49,548 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-04 12:23:49,549 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:23:49,553 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:23:50,529 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:24:18,857 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:24:18,895 ] Disconnected from gameserver
+[ 2021-12-04 12:24:18,922 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:24:40,394 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:24:41,233 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-04 12:24:41,235 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:24:41,242 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:24:42,209 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:25:35,508 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:25:35,548 ] Disconnected from gameserver
+[ 2021-12-04 12:25:35,575 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:25:45,328 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:25:49,520 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-04 12:25:49,521 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:25:49,528 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:25:50,496 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:26:24,109 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:26:24,147 ] Disconnected from gameserver
+[ 2021-12-04 12:26:24,174 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:26:29,088 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:26:29,951 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-04 12:26:29,953 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:26:29,960 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:26:30,916 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:40:47,701 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 12:40:47,743 ] Disconnected from gameserver
+[ 2021-12-04 12:40:47,874 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 12:40:48,797 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 12:40:48,800 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:40:48,806 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 12:40:49,779 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:06:08,949 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:06:08,996 ] Disconnected from gameserver
+[ 2021-12-04 13:06:09,051 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:06:09,686 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:06:09,695 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:06:09,701 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:06:10,665 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:06:14,350 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792511 found"
+[ 2021-12-04 13:06:18,034 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792398 found"
+[ 2021-12-04 13:06:18,034 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792405 found"
+[ 2021-12-04 13:06:20,474 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792406 found"
+[ 2021-12-04 13:06:21,051 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792406 found"
+[ 2021-12-04 13:06:23,470 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792407 found"
+[ 2021-12-04 13:06:23,470 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792510 found"
+[ 2021-12-04 13:06:27,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073792404 found"
+[ 2021-12-04 13:06:42,997 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:06:43,039 ] Disconnected from gameserver
+[ 2021-12-04 13:06:43,069 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:06:51,558 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:06:51,599 ] Disconnected from gameserver
+[ 2021-12-04 13:06:51,628 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:10:38,886 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 13:10:39,538 ] Asset loading complete
+[ 2021-12-04 13:11:16,899 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:11:17,077 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:11:17,084 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:11:17,091 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:11:18,122 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:13:10,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073803370 found"
+[ 2021-12-04 13:13:50,642 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:13:50,685 ] Disconnected from gameserver
+[ 2021-12-04 13:13:50,813 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:14:11,819 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 13:14:12,470 ] Asset loading complete
+[ 2021-12-04 13:14:16,788 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:14:17,055 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:14:17,062 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:14:18,117 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:14:19,082 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:14:22,879 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073803371 found"
+[ 2021-12-04 13:14:46,875 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:14:46,918 ] Disconnected from gameserver
+[ 2021-12-04 13:14:47,046 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:14:48,059 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:14:48,061 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:14:48,065 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:14:49,042 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:15:44,980 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:15:45,022 ] Disconnected from gameserver
+[ 2021-12-04 13:15:45,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:15:57,663 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 13:15:58,308 ] Asset loading complete
+[ 2021-12-04 13:16:02,322 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:16:02,486 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:16:02,493 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:16:02,499 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:16:03,552 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:17:24,515 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:17:24,558 ] Disconnected from gameserver
+[ 2021-12-04 13:17:24,709 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:17:25,965 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:17:25,967 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:17:25,972 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:17:26,947 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:20:22,013 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:20:22,056 ] Disconnected from gameserver
+[ 2021-12-04 13:20:22,087 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:20:43,007 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 13:20:43,663 ] Asset loading complete
+[ 2021-12-04 13:20:49,445 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:20:49,626 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:20:49,633 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:20:50,716 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:20:55,661 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:43:07,922 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 13:43:07,966 ] Disconnected from gameserver
+[ 2021-12-04 13:43:08,107 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:44:44,198 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 13:44:44,842 ] Asset loading complete
+[ 2021-12-04 13:44:51,920 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 13:44:52,119 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 13:44:52,125 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:44:52,132 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 13:44:53,263 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 14:24:03,596 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 14:24:03,639 ] Disconnected from gameserver
+[ 2021-12-04 14:24:03,792 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 14:27:13,982 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 14:27:14,884 ] Asset loading complete
+[ 2021-12-04 14:27:20,175 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 14:27:20,451 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 14:27:20,456 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 14:27:21,527 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 14:27:22,479 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 14:29:18,056 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 14:29:18,099 ] Disconnected from gameserver
+[ 2021-12-04 14:29:18,231 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 14:29:21,637 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 14:29:23,053 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Hawkshot" )
+[ 2021-12-04 14:29:23,055 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 14:29:23,061 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 14:29:24,137 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:11:37,308 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:11:37,350 ] Disconnected from gameserver
+[ 2021-12-04 15:11:37,384 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:12:31,782 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:12:33,677 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Camknight" )
+[ 2021-12-04 15:12:33,681 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:12:33,687 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:12:34,691 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:12:39,211 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:12:39,250 ] Disconnected from gameserver
+[ 2021-12-04 15:12:39,285 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:18:48,699 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 15:18:49,323 ] Asset loading complete
+[ 2021-12-04 15:18:52,847 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:18:54,228 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpala" )
+[ 2021-12-04 15:18:54,235 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:18:54,242 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:18:55,110 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:18:55,113 ] Disconnected from gameserver
+[ 2021-12-04 15:18:55,216 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:18:55,299 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:18:56,676 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpala" )
+[ 2021-12-04 15:18:56,677 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:18:56,681 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:18:56,712 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:18:56,714 ] Disconnected from gameserver
+[ 2021-12-04 15:18:56,726 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:18:57,545 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpala" )
+[ 2021-12-04 15:18:57,560 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:18:57,566 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:18:57,615 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:18:57,617 ] Disconnected from gameserver
+[ 2021-12-04 15:18:57,630 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:18:58,523 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:19:00,234 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpala" )
+[ 2021-12-04 15:19:00,235 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:19:00,242 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:19:00,311 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:19:00,314 ] Disconnected from gameserver
+[ 2021-12-04 15:19:00,326 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:19:01,215 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:19:02,613 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Hawkshot" )
+[ 2021-12-04 15:19:02,615 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:19:02,621 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:19:03,587 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:19:04,559 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:19:04,601 ] Disconnected from gameserver
+[ 2021-12-04 15:19:04,629 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:20:24,658 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 15:20:25,311 ] Asset loading complete
+[ 2021-12-04 15:20:28,753 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:20:30,226 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpalaa" )
+[ 2021-12-04 15:20:30,230 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:20:30,237 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:20:31,514 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:20:43,768 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:20:43,807 ] Disconnected from gameserver
+[ 2021-12-04 15:20:43,957 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:20:47,350 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:20:48,935 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpala" )
+[ 2021-12-04 15:20:48,936 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:20:48,940 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:20:49,917 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:21:00,765 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:21:00,803 ] Disconnected from gameserver
+[ 2021-12-04 15:21:00,826 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:28:32,482 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 15:28:33,123 ] Asset loading complete
+[ 2021-12-04 15:28:43,238 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:28:48,397 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Palatestttt" )
+[ 2021-12-04 15:28:48,405 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:28:48,412 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:28:49,279 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:28:49,281 ] Disconnected from gameserver
+[ 2021-12-04 15:28:49,391 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:28:49,480 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:32:26,980 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:32:29,290 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testpalaa" )
+[ 2021-12-04 15:32:29,292 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:32:30,278 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:32:31,996 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:32:34,288 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Hawkshot" )
+[ 2021-12-04 15:32:34,291 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:32:34,295 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:32:35,277 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:32:36,381 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:32:36,422 ] Disconnected from gameserver
+[ 2021-12-04 15:32:36,450 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:33:53,737 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:33:54,527 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testing" )
+[ 2021-12-04 15:33:54,530 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:33:54,536 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:33:55,621 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:34:01,277 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:34:01,316 ] Disconnected from gameserver
+[ 2021-12-04 15:34:01,343 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:49:53,528 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:49:54,714 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Defaulteq" )
+[ 2021-12-04 15:49:54,716 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:49:54,723 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 15:49:55,732 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 15:50:06,082 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 15:50:06,120 ] Disconnected from gameserver
+[ 2021-12-04 15:50:06,146 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:00:29,304 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:00:29,952 ] Asset loading complete
+[ 2021-12-04 16:00:33,528 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:00:34,416 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Newcode" )
+[ 2021-12-04 16:00:34,423 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:00:34,430 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:00:35,532 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:08:28,860 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:08:28,901 ] Disconnected from gameserver
+[ 2021-12-04 16:08:29,032 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:09:09,610 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:09:10,267 ] Asset loading complete
+[ 2021-12-04 16:09:13,741 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:09:15,451 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Qzzzzzzzzzzzz" )
+[ 2021-12-04 16:09:15,455 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:09:15,462 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:09:16,730 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:10:39,522 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:10:39,565 ] Disconnected from gameserver
+[ 2021-12-04 16:10:39,720 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:18:51,842 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:18:52,503 ] Asset loading complete
+[ 2021-12-04 16:20:40,802 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:20:59,015 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:20:59,962 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Scarftest" )
+[ 2021-12-04 16:20:59,969 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:20:59,975 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:21:01,243 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:28:14,849 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:28:15,736 ] Asset loading complete
+[ 2021-12-04 16:28:18,948 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:28:21,586 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Bigcoderesr" )
+[ 2021-12-04 16:28:21,590 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:28:21,597 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:28:22,659 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:28:30,767 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:28:30,805 ] Disconnected from gameserver
+[ 2021-12-04 16:28:30,957 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:29:53,408 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:29:54,287 ] Asset loading complete
+[ 2021-12-04 16:29:57,607 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:29:58,371 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Allcodedd" )
+[ 2021-12-04 16:29:58,377 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:29:58,385 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:29:59,655 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:30:13,768 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:30:13,808 ] Disconnected from gameserver
+[ 2021-12-04 16:30:13,952 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:41:30,805 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:41:31,450 ] Asset loading complete
+[ 2021-12-04 16:41:34,929 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:41:36,369 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Legssssss" )
+[ 2021-12-04 16:41:36,373 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:41:36,382 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:41:37,584 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:41:47,854 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:41:47,893 ] Disconnected from gameserver
+[ 2021-12-04 16:41:48,055 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:49:59,841 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:50:00,505 ] Asset loading complete
+[ 2021-12-04 16:50:03,741 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:50:11,389 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Allequipsetup" )
+[ 2021-12-04 16:50:11,396 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:50:11,403 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:50:12,692 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:52:04,412 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:52:04,461 ] Disconnected from gameserver
+[ 2021-12-04 16:52:04,622 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:12,036 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:56:12,648 ] Asset loading complete
+[ 2021-12-04 16:56:16,433 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:20,174 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Bigcoderesr" )
+[ 2021-12-04 16:56:20,188 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:56:20,195 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:56:21,212 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:26,010 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:27,586 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:56:27,625 ] Disconnected from gameserver
+[ 2021-12-04 16:56:27,651 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:27,716 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Allequipsetup" )
+[ 2021-12-04 16:56:27,721 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:56:27,728 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:56:28,697 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:29,573 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:32,686 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:56:32,728 ] Disconnected from gameserver
+[ 2021-12-04 16:56:32,761 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:56:32,836 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 16:56:32,843 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:56:32,849 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:56:33,806 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:57:35,611 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 16:57:36,275 ] Asset loading complete
+[ 2021-12-04 16:57:58,025 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:57:59,837 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-04 16:57:59,844 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:57:59,852 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:58:00,932 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:58:18,030 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:58:18,069 ] Disconnected from gameserver
+[ 2021-12-04 16:58:18,197 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:58:23,195 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:58:26,389 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 16:58:26,433 ] Disconnected from gameserver
+[ 2021-12-04 16:58:26,467 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 16:58:26,536 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Scarftest" )
+[ 2021-12-04 16:58:26,547 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:58:26,553 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 16:58:27,509 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 17:15:14,090 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 17:15:14,136 ] Disconnected from gameserver
+[ 2021-12-04 17:15:14,179 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 17:16:54,458 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 17:16:55,106 ] Asset loading complete
+[ 2021-12-04 17:16:58,634 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 17:17:03,825 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Scarftest" )
+[ 2021-12-04 17:17:03,830 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 17:17:03,836 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 17:17:04,917 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 17:19:14,611 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 17:19:14,653 ] Disconnected from gameserver
+[ 2021-12-04 17:19:14,808 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:28:01,769 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 18:28:02,455 ] Asset loading complete
+[ 2021-12-04 18:28:06,869 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:28:07,437 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Slacker" )
+[ 2021-12-04 18:28:07,441 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:28:07,448 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:28:08,560 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:28:22,813 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:28:22,851 ] Disconnected from gameserver
+[ 2021-12-04 18:28:22,981 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:28:58,811 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 18:28:59,483 ] Asset loading complete
+[ 2021-12-04 18:29:03,932 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:04,607 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Druuiiiiiii" )
+[ 2021-12-04 18:29:04,612 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:04,620 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:05,735 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:26,238 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:29:26,277 ] Disconnected from gameserver
+[ 2021-12-04 18:29:26,404 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:27,595 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Kknniiiitte" )
+[ 2021-12-04 18:29:27,596 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:27,600 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:28,571 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:33,539 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:29:33,585 ] Disconnected from gameserver
+[ 2021-12-04 18:29:33,609 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:35,562 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Slacker" )
+[ 2021-12-04 18:29:35,564 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:35,572 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:36,540 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:36,993 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:29:37,032 ] Disconnected from gameserver
+[ 2021-12-04 18:29:37,055 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:38,142 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Socccccccc" )
+[ 2021-12-04 18:29:38,144 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:38,149 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:29:39,114 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:29:44,688 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:29:44,727 ] Disconnected from gameserver
+[ 2021-12-04 18:29:44,752 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:31:59,812 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 18:32:00,513 ] Asset loading complete
+[ 2021-12-04 18:32:04,064 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:32:05,064 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Kknniiiitte" )
+[ 2021-12-04 18:32:05,116 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:32:06,125 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:32:11,147 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:32:24,171 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:32:24,211 ] Disconnected from gameserver
+[ 2021-12-04 18:32:24,359 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:32:37,025 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:32:37,830 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-04 18:32:37,832 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:32:37,838 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:32:38,804 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:05,022 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:35:05,061 ] Disconnected from gameserver
+[ 2021-12-04 18:35:05,085 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:06,798 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Druid Sample" )
+[ 2021-12-04 18:35:06,800 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:35:06,804 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:35:07,776 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:11,522 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:35:11,562 ] Disconnected from gameserver
+[ 2021-12-04 18:35:11,588 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:31,300 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:32,280 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Druid Sample" )
+[ 2021-12-04 18:35:32,282 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:35:32,289 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:35:33,261 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:34,171 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:35:34,211 ] Disconnected from gameserver
+[ 2021-12-04 18:35:34,237 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:54,623 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:35:57,321 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Newitems" )
+[ 2021-12-04 18:35:57,324 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:35:57,330 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:35:58,303 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:36:05,118 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:36:05,157 ] Disconnected from gameserver
+[ 2021-12-04 18:36:05,184 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:37:27,450 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 18:37:28,073 ] Asset loading complete
+[ 2021-12-04 18:37:42,231 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:37:44,304 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Slackereee" )
+[ 2021-12-04 18:37:44,305 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:37:44,310 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:37:45,408 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:38:43,710 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:38:43,753 ] Disconnected from gameserver
+[ 2021-12-04 18:38:43,892 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:45:23,357 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-04 18:45:24,005 ] Asset loading complete
+[ 2021-12-04 18:45:32,114 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:45:33,510 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-04 18:45:33,514 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:45:33,521 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:45:34,561 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:45:36,514 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:45:36,553 ] Disconnected from gameserver
+[ 2021-12-04 18:45:36,669 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:45:42,521 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:45:43,970 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 18:45:43,972 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:45:43,976 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:45:44,946 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:49:02,030 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:49:02,714 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:49:02,757 ] Disconnected from gameserver
+[ 2021-12-04 18:49:02,790 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:49:02,860 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 18:49:02,866 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:49:02,872 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:49:03,838 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:49:08,064 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:49:08,106 ] Disconnected from gameserver
+[ 2021-12-04 18:49:08,134 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:49:10,588 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:49:11,348 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-04 18:49:11,349 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:49:11,354 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:49:12,319 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:51:49,659 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:51:49,703 ] Disconnected from gameserver
+[ 2021-12-04 18:51:49,736 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:51:59,212 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:52:00,500 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-04 18:52:00,508 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:52:00,515 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-04 18:52:01,480 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-04 18:53:21,163 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-04 18:53:21,203 ] Disconnected from gameserver
+[ 2021-12-04 18:53:21,227 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 09:58:44,943 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-05 09:58:45,612 ] Asset loading complete
+[ 2021-12-05 09:59:02,617 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 09:59:03,086 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 09:59:03,090 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 09:59:03,098 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 09:59:04,134 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 10:03:50,313 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 10:03:50,355 ] Disconnected from gameserver
+[ 2021-12-05 10:03:50,493 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 10:04:03,605 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 10:04:03,609 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 10:04:04,579 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 10:04:08,607 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 10:04:09,615 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 10:04:09,664 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 10:04:09,671 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 10:04:10,590 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:01:54,659 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 11:01:54,700 ] Disconnected from gameserver
+[ 2021-12-05 11:01:54,723 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:02:05,152 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 11:02:05,153 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 11:02:06,120 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:02:09,391 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:02:10,212 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 11:02:10,214 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 11:02:10,220 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 11:02:11,188 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:22:56,814 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 11:22:56,856 ] Disconnected from gameserver
+[ 2021-12-05 11:22:56,890 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:23:04,586 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:23:05,871 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 11:23:05,873 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 11:23:05,879 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 11:23:06,844 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:56:40,910 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 11:56:40,952 ] Disconnected from gameserver
+[ 2021-12-05 11:56:40,971 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:56:52,345 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 11:56:52,347 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 11:56:53,326 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 11:56:58,372 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:19:23,014 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 12:19:23,055 ] Disconnected from gameserver
+[ 2021-12-05 12:19:23,083 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:19:37,010 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 12:19:37,011 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:19:37,018 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:19:37,981 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:22:43,312 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 12:22:43,351 ] Disconnected from gameserver
+[ 2021-12-05 12:22:43,375 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:22:58,785 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 12:22:58,787 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:22:58,794 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:22:59,764 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:23:14,661 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 12:23:14,700 ] Disconnected from gameserver
+[ 2021-12-05 12:23:14,725 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:23:15,734 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Druid Sample" )
+[ 2021-12-05 12:23:15,736 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:23:15,744 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:23:16,719 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:24:25,013 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 12:24:25,057 ] Disconnected from gameserver
+[ 2021-12-05 12:24:25,084 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:24:28,445 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Rook Sample" )
+[ 2021-12-05 12:24:28,446 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:24:28,453 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 12:24:29,425 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 12:24:32,066 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 12:24:32,104 ] Disconnected from gameserver
+[ 2021-12-05 12:24:32,129 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:25:04,247 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-05 14:25:04,911 ] Asset loading complete
+[ 2021-12-05 14:25:16,107 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:25:17,710 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 14:25:17,715 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:25:17,721 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:25:18,775 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:36:19,020 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:36:19,061 ] Disconnected from gameserver
+[ 2021-12-05 14:36:19,199 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:36:33,402 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:36:34,665 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 14:36:34,666 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:36:34,673 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:36:34,785 ] QIODevice::peek (QTcpSocket): device not open
+[ 2021-12-05 14:36:34,785 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "Unable to write" )
+[ 2021-12-05 14:36:34,826 ] Disconnected from gameserver
+[ 2021-12-05 14:36:34,837 ] QIODevice::peek (QTcpSocket): device not open
+[ 2021-12-05 14:36:35,634 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:36:36,503 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:36:37,882 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GodMista" )
+[ 2021-12-05 14:36:37,884 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:36:37,892 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:36:38,858 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:45:12,791 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:45:12,830 ] Disconnected from gameserver
+[ 2021-12-05 14:45:12,862 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:45:35,248 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-05 14:45:35,917 ] Asset loading complete
+[ 2021-12-05 14:46:26,458 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:46:26,650 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 14:46:26,654 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:46:26,661 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:46:27,688 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:47:43,571 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:47:43,613 ] Disconnected from gameserver
+[ 2021-12-05 14:47:43,752 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:47:46,964 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:47:47,978 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Hawkshot" )
+[ 2021-12-05 14:47:47,981 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:47:47,987 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:47:48,952 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:47:55,625 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:47:55,662 ] Disconnected from gameserver
+[ 2021-12-05 14:47:55,689 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:48:01,380 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 14:48:01,382 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:48:01,395 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:48:02,354 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:51:29,426 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:51:29,474 ] Disconnected from gameserver
+[ 2021-12-05 14:51:29,506 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:51:31,445 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:51:46,646 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-05 14:51:46,648 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:51:46,655 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:51:47,624 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:52:23,023 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:52:23,061 ] Disconnected from gameserver
+[ 2021-12-05 14:52:23,087 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:52:25,937 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Alebo" )
+[ 2021-12-05 14:52:25,939 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:52:25,946 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:52:26,918 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:52:41,222 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:52:41,265 ] Disconnected from gameserver
+[ 2021-12-05 14:52:41,290 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:52:49,606 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 14:52:49,607 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:52:49,614 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:52:50,573 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:55:23,103 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:55:25,767 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:55:27,322 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:55:27,364 ] Disconnected from gameserver
+[ 2021-12-05 14:55:27,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:55:27,470 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-05 14:55:27,471 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:55:27,477 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:55:27,754 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435464 found"
+[ 2021-12-05 14:55:28,436 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:02,122 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:03,924 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:56:03,964 ] Disconnected from gameserver
+[ 2021-12-05 14:56:03,991 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:04,064 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Hawkshot" )
+[ 2021-12-05 14:56:04,069 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:04,076 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:05,044 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:10,777 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:56:10,814 ] Disconnected from gameserver
+[ 2021-12-05 14:56:10,837 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:12,806 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Alebo" )
+[ 2021-12-05 14:56:12,808 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:12,813 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:13,780 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:32,925 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:34,573 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:56:34,611 ] Disconnected from gameserver
+[ 2021-12-05 14:56:34,645 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:34,710 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 14:56:34,725 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:34,732 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:35,685 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:55,065 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:58,575 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 14:56:58,617 ] Disconnected from gameserver
+[ 2021-12-05 14:56:58,650 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 14:56:58,728 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-05 14:56:58,734 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:58,742 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 14:56:59,702 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:00:18,526 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 15:00:18,567 ] Disconnected from gameserver
+[ 2021-12-05 15:00:18,594 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:00:19,403 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-05 15:00:19,406 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:00:19,413 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:00:20,372 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:00:22,221 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:00:23,674 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 15:00:23,713 ] Disconnected from gameserver
+[ 2021-12-05 15:00:23,739 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:00:23,812 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Cleric" )
+[ 2021-12-05 15:00:23,819 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:00:23,826 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:00:24,794 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:01:25,439 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:01:26,925 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 15:01:26,973 ] Disconnected from gameserver
+[ 2021-12-05 15:01:27,009 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:01:27,089 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "GM Mista" )
+[ 2021-12-05 15:01:27,090 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:01:27,097 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:01:28,058 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:10:02,258 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:10:08,070 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 15:10:08,110 ] Disconnected from gameserver
+[ 2021-12-05 15:10:08,148 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:10:08,216 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Hawkshot" )
+[ 2021-12-05 15:10:08,222 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:10:08,229 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:10:09,202 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:10:32,671 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 15:10:32,723 ] Disconnected from gameserver
+[ 2021-12-05 15:10:32,749 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:41:41,833 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-05 15:41:42,726 ] Asset loading complete
+[ 2021-12-05 15:41:45,445 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:41:47,251 ] Request connection to gameserver  "tcp://106.69.247.36:7172"  (unprotected:  "tcp://106.69.247.36:7172" )  requested (Charakter "Testthais" )
+[ 2021-12-05 15:41:47,258 ] Request connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:41:47,265 ] Connected to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"
+[ 2021-12-05 15:41:48,361 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:56:09,756 ] Connection to gameserver  "tcp://106.69.247.36:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-12-05 15:56:09,796 ] Disconnected from gameserver
+[ 2021-12-05 15:56:09,929 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://106.69.247.36:801/login.php") ) due to too many retries.
+[ 2021-12-05 15:56:18,635 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-05 15:56:19,277 ] Asset loading complete
+[ 2021-12-05 15:56:21,434 ] Update failed. Please reinstall Tibia to update your client.
+[ 2021-12-05 15:59:57,150 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2021-12-05 15:59:57,795 ] Asset loading complete
